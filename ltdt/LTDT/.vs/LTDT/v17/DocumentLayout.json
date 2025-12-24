@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\formchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|solutionrelative:formchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\formchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|solutionrelative:formchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|c:\\users\\admin\\downloads\\ltdt\\ltdt\\ltdt\\ltdt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8BF774-98AF-4B33-BA76-FCFCFEF7DBD5}|LTDT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:05:24.316Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\FormChiTiet.cs",
+              "RelativeDocumentMoniker": "FormChiTiet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\FormChiTiet.cs",
+              "RelativeToolTip": "FormChiTiet.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:58:38.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormChiTiet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\FormChiTiet.cs",
+              "RelativeDocumentMoniker": "FormChiTiet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\FormChiTiet.cs [Design]",
+              "RelativeToolTip": "FormChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:51:19.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\formLogin.cs",
+              "RelativeDocumentMoniker": "formLogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\formLogin.cs",
+              "RelativeToolTip": "formLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:05:59.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:05:24.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\formLogin.cs",
+              "RelativeDocumentMoniker": "formLogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\formLogin.cs [Design]",
+              "RelativeToolTip": "formLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:03:43.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswMkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:05:24.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ltdt\\ltdt\\ltdt\\LTDT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:09:36.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
